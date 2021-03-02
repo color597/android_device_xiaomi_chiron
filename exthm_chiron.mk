@@ -27,7 +27,7 @@ $(call inherit-product, vendor/exthm/config/common_full_phone.mk)
 PRODUCT_NAME := exthm_chiron
 PRODUCT_DEVICE := chiron
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Mi MIX 2
+PRODUCT_MODEL := MIX 2
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
